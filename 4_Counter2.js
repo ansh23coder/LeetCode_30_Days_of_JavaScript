@@ -18,7 +18,6 @@ var createCounter = function(init) {
     }
     return {increment, decrement, reset};
 };
-
 /**
  * const counter = createCounter(5)
  * counter.increment(); // 6
