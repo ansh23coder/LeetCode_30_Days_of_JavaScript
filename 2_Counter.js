@@ -12,12 +12,12 @@
 //     };
 // };
 
+// another method to solve the same problem
 var createCounter = function(n) {
   return function() {
     return n++;      
   };
 };
-
 /** 
  * const counter = createCounter(10)
  * counter() // 10
