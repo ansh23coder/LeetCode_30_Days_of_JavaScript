@@ -14,7 +14,7 @@ var once = function(fn) {
     return undefined;
     }
 };
-/**
+/***
  * let fn = (a,b,c) => (a + b + c)
  * let onceFn = once(fn)
  *

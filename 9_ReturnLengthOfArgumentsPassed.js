@@ -11,6 +11,6 @@ var argumentsLength = function(...args) {
     }
     return count;
 };
-/**
+/***
  * argumentsLength(1, 2, 3); // 3
  */
