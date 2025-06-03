@@ -1,6 +1,5 @@
 // https://leetcode.com/problems/debounce/
  
-
 /**
  * @param {Function} fn
  * @param {number} t milliseconds
@@ -17,7 +16,6 @@ var debounce = function(fn, t) {
         }, t);
     };
 };
-
 /**
  * const log = debounce(console.log, 100);
  * log('Hello'); // cancelled
