@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/debounce/
- 
+ 19
 /**
  * @param {Function} fn
  * @param {number} t milliseconds
