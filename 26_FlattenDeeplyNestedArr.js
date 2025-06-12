@@ -1,10 +1,12 @@
 // https://leetcode.com/problems/flatten-deeply-nested-array/
 
+
 /**
  * @param {any[]} arr
  * @param {number} depth
  * @return {any[]}
  */
+
 var flat = function (arr, depth) {
     const stack = [...arr.map(item => [item, depth])];
     const result = [];
