@@ -28,7 +28,6 @@ class EventEmitter {
             }
         };
     }
-
     /**
      * @param {string} eventName
      * @param {Array} args
