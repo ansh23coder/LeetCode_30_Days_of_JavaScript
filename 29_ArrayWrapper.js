@@ -1,10 +1,11 @@
 // https://leetcode.com/problems/array-wrapper/
 
+
+// using loops to implement valueOf and toString methods
 class ArrayWrapper {
     constructor(nums) {
         this.nums = nums;
     }
-
     valueOf() {
         let sum = 0;
         for (let i = 0; i < this.nums.length; i++) {
@@ -12,7 +13,6 @@ class ArrayWrapper {
         }
         return sum;
     }
-
     toString() {
         let str = '[';
         for (let i = 0; i < this.nums.length; i++) {
