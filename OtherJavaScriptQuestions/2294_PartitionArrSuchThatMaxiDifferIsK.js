@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/
 
-
+// code: 
 function partitionArray(nums, k) {
     nums.sort((a, b) => a - b);
     let ans = 1;
