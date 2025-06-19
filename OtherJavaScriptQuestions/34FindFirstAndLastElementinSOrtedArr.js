@@ -5,6 +5,7 @@
  * @param {number} target
  * @return {number[]}
  */
+
 var searchRange = function(nums, target) {
     let startingPosition = -1;
     let endingPosition = -1;
