@@ -5,7 +5,6 @@
  * @param {Array<Function>} functions
  * @return {Promise<any>}
  */
-
 var promiseAll = async function(functions) {
     return new Promise((resolve, reject) => {
         // We know the resulting array will be the same length as functions
@@ -22,7 +21,6 @@ var promiseAll = async function(functions) {
         });
     });
 };
-
 /**
  * const promise = promiseAll([() => new Promise(res => res(42))])
  * promise.then(console.log); // [42]
