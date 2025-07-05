@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/add-binary/
 
+
 // js code:
 /**
  * @param {string} a
