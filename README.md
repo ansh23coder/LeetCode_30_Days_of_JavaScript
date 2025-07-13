@@ -1,7 +1,9 @@
-# LeetCode 30 Days Of JavaScript
+# 30 Days of JavaScript Challenge - LeetCode
 
-This repository contains all the codes and problems that I am solving as part of my 30 Days of JavaScript challenge on the LeetCode platform.
+This repository contains my solutions for the **30 Days of JavaScript** challenge on LeetCode.
 
-* Challenge Link - https://leetcode.com/studyplan/30-days-of-javascript/
+- **Challenge Link**: [30 Days of JavaScript - LeetCode](https://leetcode.com/studyplan/30-days-of-javascript/)
 
-
+## Clone the repo:
+   ```bash
+   git clone https://github.com/ansh23coder/30-days-of-javascript.git
