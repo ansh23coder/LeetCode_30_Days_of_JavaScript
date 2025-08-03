@@ -1,0 +1,22 @@
+Topics covered through this 30 Days of JavaScript: 
+
+1. Arrays
+2. Strings
+3. Linked Lists
+4. Math / Number Theory
+5. Searching & Sorting
+6. Promises & Async/Await
+7. Function Control / Execution
+8. Objects & Prototypes
+9. Basic JavaScript Fundamentals
+10. Promises
+11. Memoization
+12. Recursion
+13. Debounce
+14. Sorting Algorithms
+15. Time Complexity
+16. Dynamic Programming
+17. Trees
+18. Greedy Algorithms
+19. Array Methods
+20. Object Manipulation
