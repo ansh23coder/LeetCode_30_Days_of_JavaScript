@@ -3,19 +3,14 @@
 /**
  * @return {Function}
  */
-// 1st
+// 1st code:
 // var createHelloWorld = function() {
 //     return function(...args) {
 //         return "Hello World";
 //     }
 // };
 
-// 2nd
+// 2nd code:
 var createHelloWorld = function() {
     return () => "Hello World";
 };
-
-/**
- * const f = createHelloWorld();
- * f(); // "Hello World"
- */

@@ -4,6 +4,7 @@
  * @param {number} n
  * @return {Function} counter
  */
+// method 1:
 // var createCounter = function(n) {
 //     let currCount = n-1;
 //     return function() {
@@ -12,7 +13,7 @@
 //     };
 // };
 
-// another method to solve the same problem
+// another method to solve the same problem:
 var createCounter = function(n) {
   return function() {
     return n++;      
